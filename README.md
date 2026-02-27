@@ -9,6 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 End-to-end case study analysis of **global video game sales** (1980–2016) using **Excel**, **SQL**, and **Power BI**.
+https://github.com/amaan20002023-sketch/VIDEO-GAME-SALES-ANALYSIS-EXCEL-SQL-POWER-BI/blob/main/README.md
 
 Demonstrates:
 - Data understanding & cleaning in Excel
